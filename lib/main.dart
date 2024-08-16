@@ -67,7 +67,7 @@ class _MainAppState extends State<MainApp> {
                     _isChecked3 = newValue!;
                   });
                 },
-                label: 'Jogo da NFL',
+                label: 'Festa da Joana',
               ),
               CustomCheckbox(
                 value: _isChecked4,
@@ -80,7 +80,7 @@ class _MainAppState extends State<MainApp> {
                     _isChecked4 = newValue!;
                   });
                 },
-                label: 'Festa da Joana',
+                label: 'Premiação de Cinema',
               ),
             ],
           ),
